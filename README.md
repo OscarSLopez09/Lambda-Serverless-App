@@ -10,6 +10,22 @@ Also, we're creating a rule on Cloudwatch to trigger the Lambda function.
 
 <img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+This project because of its complexity and detail information is going to be broken down in different section (Repositories).
+
+ This is the first section.
+- [Part 1 Testing the first part ](https://github.com/OscarSLopez09/Serverless-Testing-Part1)
+- [Part 2 Creating API Gateway ](https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW)
+- [Part 2 Creating the backend lambda](https://github.com/OscarSLopez09/Lambda-Serverless-App-Part2)
+- [Part 2 Creating CloudWatch event](https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule)
+- [Part 3 Implementing security with API keys ](https://github.com/OscarSLopez09/Lambda-Serverless-App-Security)
+
+
+
+
+
+
+
+
 # The AWS services used in this project:
 
 * AWS Lambda

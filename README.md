@@ -165,7 +165,7 @@ def getSentiment(newsTitle):
 * Proceed to create Dynamo DB table
 * On AWS console look for DynamoDB service
 * Click on tables on left side of the screen, then click on create table
-<img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/lambda08.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/lambda08.PNG" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
 * On table details create name - news
 * Create the partition key - sentiment

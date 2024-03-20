@@ -144,7 +144,7 @@ def insertDynamo(sentiment,newsTitle,timestamp):
 <img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/lambda05.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 * After running the AWS commands check the function on the AWS lambda console
-<img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/lambda06.PNG" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/lambda06.PNG" height="110%" width="110%" alt="Disk Sanitization Steps"/>
 
 * Click on the NewsReaderAPI function to see the code
 <img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/lambda07.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>

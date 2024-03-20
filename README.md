@@ -14,15 +14,15 @@ This project because of its complexity and detail information is going to be bro
 
  You are in the first section. The links below takes you to the different section:
  
-- [Part 1 Testing the first part ](https://github.com/OscarSLopez09/Serverless-Testing-Part1)
+- [Part 2 Testing the first part ](https://github.com/OscarSLopez09/Serverless-Testing-Part1)
   
-- [Part 2 Creating the backend lambda](https://github.com/OscarSLopez09/Lambda-Serverless-App-Part2)
+- [Part 3 Creating the backend lambda](https://github.com/OscarSLopez09/Lambda-Serverless-App-Part2)
   
-- [Part 3 Creating API Gateway ](https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW)
+- [Part 4 Creating API Gateway ](https://github.com/OscarSLopez09/Serverless-App-Part2-API-GW)
   
-- [Part 4 Creating CloudWatch event](https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule)
+- [Part 5 Creating CloudWatch event](https://github.com/OscarSLopez09/Serverless-Cloudwatch-Rule)
  
-- [Part 5 Implementing security with API keys ](https://github.com/OscarSLopez09/Lambda-Serverless-App-Security)
+- [Part 6 Implementing security with API keys ](https://github.com/OscarSLopez09/Lambda-Serverless-App-Security)
 
 
 

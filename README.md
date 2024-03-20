@@ -178,6 +178,10 @@ def getSentiment(newsTitle):
 
 After the Dynamo DB table is create I will continue on the Second part of the project where I create the Cloudwatch rule and the backend Lambda function.
 
+Second part:
+
+- [Part 2 Creating the backend lambda](https://github.com/OscarSLopez09/Lambda-Serverless-App-Part2)
+
 
 
 

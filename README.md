@@ -12,7 +12,7 @@ Also, we're creating a rule on Cloudwatch to trigger the Lambda function.
 
 This project because of its complexity and detail information is going to be broken down in different section (Repositories).
 
- You are in the first section. The links below takes you to the different section:
+ You are in part 1 of the project. The links below takes you to the different section:
  
 - [Part 2 Testing the first part ](https://github.com/OscarSLopez09/Serverless-Testing-Part1)
   

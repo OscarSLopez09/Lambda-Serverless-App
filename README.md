@@ -184,7 +184,7 @@ After the Dynamo DB table is create I will continue on the Second part of the pr
 
 Continuing the project, second part link below:
 
-- [Part 2 Creating the backend lambda](https://github.com/OscarSLopez09/Lambda-Serverless-App-Part2)
+- [Part 2 Testing the first part ](https://github.com/OscarSLopez09/Serverless-Testing-Part1)
 
 
 

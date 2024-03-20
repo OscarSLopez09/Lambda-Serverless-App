@@ -149,6 +149,19 @@ def insertDynamo(sentiment,newsTitle,timestamp):
 * Click on the NewsReaderAPI function to see the code
 <img src="https://github.com/OscarSLopez09/Lambda-Serverless-App/blob/main/Images/lambda07.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+## Amazon Comprehend
+
+Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text, no machine learning experience is required. Amazon Comprehend uses machine learning to help you uncover the insights and relationships in your unstructured data. The service identifies the language of the text; extracts key phrases, places, people, brands, or events; understands how positive or negative the text is.
+
+The call is make using the code below this code as you can see is incorporated to my Lambda function.
+```python
+def getSentiment(newsTitle):
+    comprehend = boto3.client(service_name='comprehend')
+    return(json.dumps(comprehend.detect_sentiment(Text=newsTitle, LanguageCode='en'), sort_keys=True))
+```
+
+
+
 * Proceed to create Dynamo DB table
 * On AWS console look for DynamoDB service
 * Click on tables on left side of the screen, then click on create table
